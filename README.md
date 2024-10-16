@@ -13,4 +13,8 @@
 
 - Web
 
+> v1
 <img src="screenshots/web1.png" />
+
+> v2
+<img src="screenshots/web2.png" />
